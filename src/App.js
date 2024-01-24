@@ -1,7 +1,7 @@
-import "./App.css";
+import Body from "./components/Body";
 
 function App() {
-  return <div className="text-3xl font-bold">Welcome to OTT</div>;
+  return <Body />;
 }
 
 export default App;
